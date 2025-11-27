@@ -3,8 +3,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background:#02889B; 
     
+    
+}
+body{
+    background:#02889B; 
 }
 :root{
     --oq: #fff;
@@ -185,3 +188,96 @@ h1{
         margin-left: 270px;
         margin-top: -90px;
     }
+    .m{
+        display: flex;
+        gap: 100px;
+        color: #fff;
+        width: 70%;
+        margin-left: 15%;
+       
+
+    }
+    .m7{
+        display: flex;
+        gap: 100px;
+        color: #fff;
+        width: 70%;
+        margin-left: 15%;
+        margin-top: 100px;
+
+    }
+    .m2{
+      border: 2px solid #21dfcc56;
+      width: 250px;
+      height: 300px;
+      background-color:#21dfcc56 ;
+    }
+    .m2{
+      border: 2px solid #21dfcc56;
+      width: 250px;
+      height: 300px;
+      background-color:#21dfcc56 ;
+    }
+    .h{
+        border: 3px solid #33A4AE;
+        width: 70%;
+        border-radius: 20px;
+        color: #fff;
+        margin-left: 15%; 
+        h1{
+
+    color: #fff;
+    font-size: 56px;
+        }      
+    }
+.h1{
+    display: flex;
+    gap: 20px;
+    margin-top: 200px;
+}
+.h5{
+    display: flex;
+    gap: 20px;
+}
+.h2{
+    border: 2px solid #fff;
+    height: 60px;
+    width: 290px;
+    background: #fff;
+     color: black;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+}
+.h3{
+    border: 2px solid #FF693A;
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+    background: #FF693A;
+    align-items: center;
+    text-align: center;
+   
+}
+.f4{
+    display: flex;
+    gap: 100px;
+}
+.f5{
+    display: flex;
+    gap: 100px;
+}
+.f{
+    display: flex;
+    gap: 100px;
+    width: 70%;
+    margin-left: 15%;
+    color: #fff;
+}
+.f0{
+    margin-left: 45%;
+}
+.f9{
+    margin-left: 38%;
+    color: #fff;
+}
